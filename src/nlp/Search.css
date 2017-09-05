@@ -1,0 +1,9 @@
+.search-wrapper button {
+    background-color: transparent;
+    border: none;
+    font-size: 6rem;
+}
+
+.result {
+    text-align: center;
+}
